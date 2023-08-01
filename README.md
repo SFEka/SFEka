@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### <div align="center">I'm SFEka, a college student now 👀</div>  
+  
+
+- 🔭 I’m currently studying at CUHK.  
+  
+
+- 🌱 I’m currently learning everything.  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
