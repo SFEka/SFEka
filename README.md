@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything.  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
